@@ -63,3 +63,8 @@ Thumbs.db
 .pytest_cache/
 .coverage
 htmlcov/
+
+# Private review responses
+reviewer_response*.txt
+*review*.txt
+*rebuttal*.txt
