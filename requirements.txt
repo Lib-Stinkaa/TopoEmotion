@@ -1,0 +1,26 @@
+# Core dependencies (from biobss_env)
+numpy==1.26.4
+scipy==1.13.1
+pandas==1.4.4
+
+# Machine learning
+scikit-learn==1.6.1
+imbalanced-learn==0.12.4
+
+# Signal processing
+neurokit2==0.2.7
+
+# Topological Data Analysis
+ripser==0.6.12
+
+# Visualization
+matplotlib==3.5.1
+seaborn==0.13.2
+
+# Parallel processing
+joblib==1.4.2
+
+# Optional development tools
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0
