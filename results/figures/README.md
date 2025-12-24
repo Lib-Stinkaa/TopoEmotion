@@ -25,11 +25,3 @@ python generate_final_figures.py
 ```
 
 This script generates all 7 figures (fig1-fig7) using the TopoEmotion pipeline.
-
-## Style
-
-- 300 DPI resolution
-- Clean academic style
-- No grid lines
-- No top/right spines
-- Statistics displayed in upper right corner
